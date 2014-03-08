@@ -1,4 +1,4 @@
-bg-hackathon-website
+Hackathon Hamburg
 ====================
 
-BG Hackathon website
+Hamburg Geekettes & OpenTechSchool Hackathon website
